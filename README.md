@@ -5,7 +5,7 @@ In this Python script, we're trying to get some customer review data. This examp
 ..* Download the file
 ..* Extract the file in your selected folder.
 ..* Put the files called `scraper.py` and `chromedriver.exe` in the same folder.
-> Here we used `chromedriver.exe` for chrome browser version `137.0.7151.56`. You can match your version from your [here](chrome://settings/help) and then download your chromedriver version from [here](https://googlechromelabs.github.io/chrome-for-testing/#stable). After download, extract the file and replce the `chromedriver.exe` to the new one!
+> Here we used `chromedriver.exe` for chrome browser version `137.0.7151.56`. You can match your current chrome version from browser `settings` > `help` > `About Google Chrome`. Then download your chromedriver version from [here](https://googlechromelabs.github.io/chrome-for-testing/#stable). After download, extract the file and replce the `chromedriver.exe` to the new one!
 ..* Now open your `terminal`, for windows `Win`+`R` then type `cmd`
 ..* Now check if your machine has Python installed or not by type `python --version`. If you see the python version number then it's installed already! If not, then you need to install this first.
 ..* Install `pip` using `pip install requests` in your terminal
