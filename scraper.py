@@ -7,7 +7,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # ── CONFIG ───────────────────────────────────────────────────────────────
-PRODUCT_URL       = "https://nolaninterior.com/products/miracle-sofa-cover-plush"
+PRODUCT_URL       = "https://example.com/products/products-handle"
 OUTPUT_CSV        = "junip_reviews.csv"
 CHROMEDRIVER_PATH = r".\chromedriver.exe"
 CHROME_BINARY     = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
